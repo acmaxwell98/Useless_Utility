@@ -1,0 +1,25 @@
+fill(0, 0, 0);
+    rect(  (-300+ractangle_x ), -380, recatangle_width, rectangle_height);
+    fill(0, 0, 0);
+    rect(-280, -380, recatangle_width, rectangle_height);
+    fill(0, 0, 0);
+    rect(-260, -380, recatangle_width, rectangle_height);
+    fill(0, 0, 0);
+    rect(-240, -380, recatangle_width, rectangle_height);
+    fill(0, 0, 0);
+    rect(-220, -380, recatangle_width, rectangle_height);
+    fill(0, 0, 0);
+    rect(-200, -380, recatangle_width, rectangle_height);
+    fill(0, 0, 0);
+    rect(-180, -380, recatangle_width, rectangle_height);
+    fill(0, 0, 0);
+    rect(-160, -380, recatangle_width, rectangle_height);
+    fill(0, 0, 0);
+    rect(-140, -380, recatangle_width, rectangle_height);
+    fill(0, 0, 0);
+    rect(-120, -380, recatangle_width, rectangle_height);
+    fill(0, 0, 0);
+    rect(-100, -380, recatangle_width, rectangle_height);
+    fill(0, 0, 0);
+    rect(-80, -380, recatangle_width, rectangle_height);
+    
